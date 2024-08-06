@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: MaskWatch
+Version: 0.0.1
+Author: Vardhani
+Author-email: me21b030@iittp.ac.in
+License-File: LICENSE
+Requires-Dist: setuptools==72.1.0
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: numpy

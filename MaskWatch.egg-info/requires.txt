@@ -1,0 +1,4 @@
+setuptools==72.1.0
+pandas
+seaborn
+numpy

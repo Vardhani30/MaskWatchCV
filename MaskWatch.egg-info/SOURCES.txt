@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+MaskWatch.egg-info/PKG-INFO
+MaskWatch.egg-info/SOURCES.txt
+MaskWatch.egg-info/dependency_links.txt
+MaskWatch.egg-info/requires.txt
+MaskWatch.egg-info/top_level.txt
+src/__init__.py
