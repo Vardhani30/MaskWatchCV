@@ -1,5 +1,4 @@
-setuptools==72.1.0
-pandas
-seaborn
+Flask
+opencv-python
+tensorflow
 numpy
--e .
